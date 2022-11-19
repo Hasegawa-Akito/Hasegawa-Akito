@@ -1,8 +1,8 @@
 # 成果物
 
-- [E-SInt](https://self-introduction-app.vercel.app/): 同じ空間にいる人のみと自己紹介カードを交換できるwebアプリ
-- [Dealer](https://p-dealer.com/start): JPHACKSで開発したポーカーのサポートアプリ(決勝16チームに選出)
-- [voting-site](https://voting-site-76b5a.web.app/): アンケート作成とその結果をリアルタイムで反映できるwebアプリ
+- [E-SInt](https://self-introduction-app.vercel.app/): 同じ空間にいる人のみと自己紹介カードを交換できるwebアプリ ([github](https://github.com/Hasegawa-Akito/self-introduction-app))
+- [Dealer](https://p-dealer.com/start): JPHACKSで開発したポーカーのサポートアプリ(決勝16チームに選出) ([github](https://github.com/tokyo-azisai-paradise/poker-mahjong-calculation))
+- [voting-site](https://voting-site-76b5a.web.app/): アンケート作成とその結果をリアルタイムで反映できるwebアプリ ([github](https://github.com/Hasegawa-Akito/voting-ts-react))
 
 # 技術スタック
 ## フロントエンド
