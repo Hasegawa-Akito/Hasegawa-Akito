@@ -6,22 +6,15 @@
 
 # 技術スタック
 ## フロントエンド
-- Next.js
-- React
-- TypeScript
-- Vue.js
-- TailWind
-- jest
+Next.js, React, TypeScript, TailWind
+
 ## バックエンド
-- Node.js
-- Laravel(php)
+Node.js
+## ネイティブ
+SwiftUI
+
 ## その他
-- Docker
-- MySQL
-- Prisma
-- firebase
-- Unity(C#)
-- AWS
+Docker, MySQL, Firebase, AWS, Unity, GAS, C#, Python
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseaki-poip&layout=compact&show_icons=true&theme=onedark" />
