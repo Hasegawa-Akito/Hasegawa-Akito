@@ -11,7 +11,7 @@
 Next.js, React, TypeScript, TailWind
 
 ## バックエンド
-Node.js
+Node.js, PHP
 ## ネイティブ
 Swift, SwiftUI
 
