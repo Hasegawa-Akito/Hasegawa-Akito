@@ -12,9 +12,9 @@
 Next.js, React, TypeScript, TailWind
 
 ## バックエンド
-Node.js, PHP
+Node.js
 ## ネイティブ
-Swift, SwiftUI
+Swift, SwiftUI, Flutter
 
 ## その他
 Docker, MySQL, Firebase, AWS, Unity, GAS, C#, Python
